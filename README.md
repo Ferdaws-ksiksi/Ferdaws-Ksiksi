@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferdaws</h1>
 <h3 align="center">1x AWS Certified | RHCSA 🏅 | Software Engineering Student 💻 | Cloud Enthusiast ☁</h3>
 
-- 🔭 I’m currently a **Software and information system engineer and DevOps enthusiast ☁**
+- 🔭 I’m currently a **Software engineer and DevOps enthusiast ☁**
 
 - 🌱 I'm always looking for opportunities to learn about **popular DevOps tools such as Docker,SonarQube, Grafana, Jenkins...**
 
